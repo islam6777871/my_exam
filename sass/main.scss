@@ -4,4 +4,7 @@
 @use 'base';
 @use 'mixin';
 @use 'media';
+@use './blocks/header';
+@use './blocks/main_sections';
+@use './blocks/footer';
 

@@ -1,0 +1,150 @@
+.sixth_hero_address{
+    background-image: url(/static_img/sixth-hero-img.webp);
+    background-position:left;
+    background-repeat:no-repeat;
+    background-size: contain;
+    width: 800px;
+   height: 350px; 
+   text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.addrss_six{
+    display: flex;
+    gap: 100px;
+    margin-left: 50px;
+    margin-top: 60px;
+   text-align: center;
+   
+}
+.web_links{
+    margin-top: 100px;
+}
+.web_links a{
+
+    color: black;
+    text-align: center;
+}
+.sixth_location{
+    margin-top: 40px;
+}
+.canada_title{
+    font-family: Jost;
+font-size: 40px;
+font-weight: 500;
+line-height: 48px;
+letter-spacing: 0px;
+text-align: left;
+color:#E7816B ; 
+}
+.first_map{
+border-radius:10px ;
+}
+.first_location{
+    display: flex;
+    margin-top: 70px;
+    gap: 30px;
+}
+.first_location_{
+    display: flex;
+    margin-top: 70px;
+    flex-direction: row-reverse;
+    gap: 30px;
+}
+// __________SEVENTH PAGE _______________________--___----.//
+.inputs{
+    display: flex;
+   
+}
+.container_inputs{
+    display: flex;
+    flex-direction: column;
+   border: none;
+   width: 220px;
+    color: #fff;
+}
+.contact_section{
+    display: flex;
+    justify-content: space-evenly;
+    background-image:url(/static_img/seventh-page-bc-img.webp);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    border-radius: 10px;
+    height: 480px;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+input{
+    border: none;
+    border-bottom: solid #fff 1px;
+    line-height: 20px;
+    background-color:#E7816B;
+    font-family: Jost;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+textarea{
+    background-color:#E7816B;
+    border: none;
+    border-bottom:solid #fff 1px ;
+    font-family: Jost;
+font-size: 15px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+color: #fff;
+
+}
+.btn_{
+  display: inline;
+    background-color: #E7816B;
+    color: #fff;
+    margin-top: 12px;
+    border-radius: 11px;
+    padding: 12px 20px;
+    border-color: #fff;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+}
+.btn_:hover{
+    background-color: #dab0a6;
+    opacity: 0.8;
+    transition: all 0.4s ease-in-out;
+}
+.contact_title{
+    font-family: Jost;
+font-size: 48px;
+font-weight: 500;
+line-height: 48px;
+letter-spacing: 0px;
+text-align: left;
+color: #fff;
+
+}
+.contact_info{
+    font-family: Jost;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+color: #fff;
+}
+
+
+
+
+.card_country{
+    margin-bottom: 72px;
+}
